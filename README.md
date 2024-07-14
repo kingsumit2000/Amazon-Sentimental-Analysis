@@ -1,2 +1,2 @@
-# Amazon-Sentimental-Analysis
+# Amazon Alexa-Sentimental-Analysis
 
